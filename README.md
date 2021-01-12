@@ -18,9 +18,11 @@ quantitative finance. We productionalize all our tools in the form of libraries 
 
 Adding our libraries to your company’s pipeline is like adding a department of PhD researchers.
 
+> **pip install portfoliolab**
+
 * [Website](https://hudsonthames.org/)
 * [Github Group](https://github.com/hudson-and-thames)
-* [PortfolioLab](https://portfoliolab.readthedocs.io/en/latest/)
+* [PortfolioLab](https://hudson-and-thames-portfoliolab.readthedocs-hosted.com/en/latest/)
 
 ---
 
@@ -31,3 +33,7 @@ Looking forward to hearing from you!
 
 ## License
 This project is licensed under an all rights reserved [licence](https://hudson-and-thames-portfoliolab.readthedocs-hosted.com/en/latest/additional_information/license.html).
+
+## Note
+
+* This Public PortfolioLab repo that doesn't contain the source code.
