@@ -9,7 +9,7 @@
 
 PortfolioLab is a python library that enables traders who want to take advantage of the latest portfolio optimisation algorithms used by professionals in the industry.
 
-This repo is public facing and provides users with an easy way to raise bugs, feature requests, and other issues.
+This repo is public facing and exists for the sole purpose of providing users with an easy way to raise bugs, feature requests, and other issues.
 
 ## Documentation & Tutorials
 We lower barriers to entry for all users by providing extensive documentation and tutorial notebooks, with code examples.
