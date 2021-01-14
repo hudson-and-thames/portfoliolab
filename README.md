@@ -9,6 +9,8 @@
 
 PortfolioLab is a python library that enables traders who want to take advantage of the latest portfolio optimisation algorithms used by professionals in the industry.
 
+This repo is public facing and provides users with an easy way to raise bugs, feature requests, and other issues.
+
 ## Documentation & Tutorials
 We lower barriers to entry for all users by providing extensive documentation and tutorial notebooks, with code examples.
 
@@ -33,6 +35,12 @@ Looking forward to hearing from you!
 
 ## License
 This project is licensed under an all rights reserved [licence](https://hudson-and-thames-portfoliolab.readthedocs-hosted.com/en/latest/additional_information/license.html).
+
+We offer 3 tiers:
+
+* Professional
+* Business
+* Enterprise
 
 ## Note
 
