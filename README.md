@@ -48,3 +48,35 @@ importing the libraries and ending with strategy performance metrics so you can 
    <img src="https://hudsonthames.org/wp-content/uploads/2021/11/youtube_portfoliolab.png" height="100px">
    </a>
 </div>
+
+
+### Included modules:
+
+- Bayesian Models
+    - Black-Litterman Model
+    - Entropy Pooling
+    - Robust Bayesian Allocation
+- Clustering Models
+    - Hierarchical Risk Parity (HRP)
+    - Hierarchical Equal Risk Contribution (HERC)
+    - Nested Clustered Optimization (NCO)
+- Risk and Return Estimators
+- Modern Portfolio Theory
+    - Critical Line Algorithm (CLA)
+    - Mean-Variance Optimisation
+- Online Portfolio Selection
+
+
+## Licensing options
+This project is licensed under an all rights reserved [license](https://github.com/hudson-and-thames/mlfinlab/blob/master/LICENSE.txt).
+
+
+* Business
+* Enterprise
+
+
+## Community
+With the purchase of the library our clients get the access to the Hudson & Thames Slack community, where our engeniers and other quants 
+are always ready to answer your questions.
+
+Alternatively you can email us at: research@hudsonthames.org.
