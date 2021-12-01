@@ -36,12 +36,15 @@ which include detailed examples of the usage of the algorithms. Our goal is show
 importing the libraries and ending with strategy performance metrics so you can get the added value from the get-go.
 
 
-We offer 3 tiers:
-
-* Professional
-* Business
-* Enterprise
-
-## Note
-
-* This Public PortfolioLab repo that doesn't contain the source code.
+<div align="left">
+   <a href="https://portal.hudsonthames.org/sign-in">
+   <img src="https://hudsonthames.org/wp-content/uploads/2021/11/purchase_portfoliolab_v2.png" height="100px" 
+   style="margin-left: auto; margin-right: auto; display:inline-block;">
+   </a>
+   <a href="https://hudsonthames.org/">
+   <img src="https://hudsonthames.org/wp-content/uploads/2021/11/website_link_p.png" height="100px">
+   </a>
+   <a href="https://www.youtube.com/channel/UC8hI87gt0dmTAIEupEcsckA">
+   <img src="https://hudsonthames.org/wp-content/uploads/2021/11/youtube_portfoliolab.png" height="100px">
+   </a>
+</div>
