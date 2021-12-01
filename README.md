@@ -18,21 +18,23 @@
 <div align="center">
     <br>
 </div>
-> **pip install portfoliolab**
 
-* [Website](https://hudsonthames.org/)
-* [Github Group](https://github.com/hudson-and-thames)
-* [PortfolioLab](https://hudson-and-thames-portfoliolab.readthedocs-hosted.com/en/latest/)
+## What is PortfolioLab?
+PortfolioLab python library includes both various end-to-end portfolio optimization strategies
+and strategy creation tools that cover the whole range of techniques you would need to create your own top-earning strategy. 
 
----
+We pride ourselves in the robustness of our codebase - every line of code existing in the modules is extensively tested and 
+documented.
 
-## Contact us
-The best place to contact the team is via the Slack channel. Alternatively you can email us at: research@hudsonthames.org.
+## Documentation, Example Notebooks and Lecture Videos
+For every technique present in the library we not only provide extensive documentation, with both theoretical explanations
+ and detailed descriptions of available functions, but also supplement the modules with ever-growing array of lecture videos and slides 
+ on the implemented methods.
+ 
+We want you to be able to use the tools right away. To achieve that, every module comes with a number of example notebooks 
+which include detailed examples of the usage of the algorithms. Our goal is show you the whole pipeline, starting from 
+importing the libraries and ending with strategy performance metrics so you can get the added value from the get-go.
 
-Looking forward to hearing from you!
-
-## License
-This project is licensed under an all rights reserved [licence](https://hudson-and-thames-portfoliolab.readthedocs-hosted.com/en/latest/additional_information/license.html).
 
 We offer 3 tiers:
 
