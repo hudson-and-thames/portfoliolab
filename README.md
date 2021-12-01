@@ -80,3 +80,22 @@ With the purchase of the library our clients get the access to the Hudson & Tham
 are always ready to answer your questions.
 
 Alternatively you can email us at: research@hudsonthames.org.
+
+
+
+<div align="center">
+   <a>
+   <img src="https://hudsonthames.org/wp-content/uploads/2021/11/header_github_ht.jpg" width="100%" 
+   style="margin-left: auto; margin-right: auto; display:block;">
+   </a>
+</div>
+
+
+
+## Who is Hudson & Thames?
+Hudson and Thames Quantitative Research is a company with a goal of bridging the gap between the advanced research developed in 
+quantitative finance and its practical application. We have created three premium python libraries so you can effortlessly access the
+latest techniques and focus on what matters most: **creating your own winning strategy**.
+
+
+### What was only possible with the help of huge R&D teams is now at your disposal, anywhere, anytime.
