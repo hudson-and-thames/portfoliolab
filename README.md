@@ -1,5 +1,5 @@
 <div align="center">
-   <a href="https://hudsonthames.org/mlfinlab">
+   <a href="https://hudsonthames.org/portfoliolab">
    <img src="https://hudsonthames.org/wp-content/uploads/2021/11/portfolilab_github_header.jpg" width="100%" 
    style="margin-left: auto; margin-right: auto; display:block;">
    
@@ -84,7 +84,7 @@ Alternatively you can email us at: research@hudsonthames.org.
 
 
 <div align="center">
-   <a>
+   <a href="https://hudsonthames.org/">
    <img src="https://hudsonthames.org/wp-content/uploads/2021/11/header_github_ht.jpg" width="100%" 
    style="margin-left: auto; margin-right: auto; display:block;">
    </a>
