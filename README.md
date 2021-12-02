@@ -28,11 +28,11 @@ documented.
 
 ## Documentation, Example Notebooks and Lecture Videos
 For every technique present in the library we not only provide extensive documentation, with both theoretical explanations
- and detailed descriptions of available functions, but also supplement the modules with ever-growing array of lecture videos and slides 
- on the implemented methods.
+and detailed descriptions of available functions, but also supplement the modules with ever-growing array of lecture videos and slides 
+on the implemented methods.
  
 We want you to be able to use the tools right away. To achieve that, every module comes with a number of example notebooks 
-which include detailed examples of the usage of the algorithms. Our goal is show you the whole pipeline, starting from 
+which include detailed examples of the usage of the algorithms. Our goal is to show you the whole pipeline, starting from 
 importing the libraries and ending with strategy performance metrics so you can get the added value from the get-go.
 
 
@@ -65,23 +65,24 @@ importing the libraries and ending with strategy performance metrics so you can 
     - Critical Line Algorithm (CLA)
     - Mean-Variance Optimisation
 - Online Portfolio Selection
+    - Benchmarks
+    - Momentum
+    - Mean Reversion
+    - Pattern Matching
 
 
 ## Licensing options
-This project is licensed under an all rights reserved [license](https://github.com/hudson-and-thames/mlfinlab/blob/master/LICENSE.txt).
-
+This project is licensed under an all rights reserved [license](https://github.com/hudson-and-thames/portfoliolab/blob/master/LICENSE.txt).
 
 * Business
 * Enterprise
 
 
 ## Community
-With the purchase of the library our clients get the access to the Hudson & Thames Slack community, where our engeniers and other quants 
+With the purchase of the library, our clients get access to the Hudson & Thames Slack community, where our engineers and other quants 
 are always ready to answer your questions.
 
-Alternatively you can email us at: research@hudsonthames.org.
-
-
+Alternatively, you can email us at: research@hudsonthames.org.
 
 <div align="center">
    <a href="https://hudsonthames.org/">
@@ -91,9 +92,8 @@ Alternatively you can email us at: research@hudsonthames.org.
 </div>
 
 
-
 ## Who is Hudson & Thames?
-Hudson and Thames Quantitative Research is a company with a goal of bridging the gap between the advanced research developed in 
+Hudson and Thames Quantitative Research is a company with the goal of bridging the gap between the advanced research developed in 
 quantitative finance and its practical application. We have created three premium python libraries so you can effortlessly access the
 latest techniques and focus on what matters most: **creating your own winning strategy**.
 
